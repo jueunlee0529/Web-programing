@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <title>상품소개 페이지</title>
+    <style>
+       * {
+            magrin:0;
+            padding:0;
+        }
+    </style>
+</head>
+<body>
+    <img src="http://jhbum.pe.kr/web/4w/images/cat.jpg">
+</body>
+</html>
