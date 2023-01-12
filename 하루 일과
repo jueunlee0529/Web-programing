@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <title>하루 일과</title>
+    <style>
+    .center {
+        text-align: center;
+        width: 100%;
+        background-color: black;
+        color: #fff
+    }
+    .text {
+        color:rgb(255, 0, 0)
+    }
+    .text2 {
+        color:blue
+    }
+
+</style>
+</head>
+<body>
+    <h1><p class = center>하루 일과</p></h1>
+    <p class = text>2023년 1월 12일</p><p class= text2>날씨 맑음</p>
+    <p>오늘은 <b><i>즐거운 하루</i></b>였다</p>
+</body>
+</html>
