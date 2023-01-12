@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <title>Document</title>
+    <style>
+        .input{
+            background-color: aquamarine;
+            width: 300px; 
+            height: 50px;
+        }
+        .select {
+            background-color: blanchedalmond;
+            width: 600px; 
+            height: 50px;
+        }
+        .selectLabel{
+            font-size: 30px;
+        }
+    </style>
+</head>
+<body>
+    <h2>input태그<input type="text" class="input"></h2>
+    <span class="selectLabel">Select 태그</span>
+    <select class="select" name="선택" id="선택">
+    <option value="선택 1">선택 1</option>
+    <option value="선택 2">선택 2</option>
+    <option value="선택 3">선택 3</option>
+    <option value="선택 4">선택 4</option>
+</select> 
+   
+</div>
+</body>
+</html>
