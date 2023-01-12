@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <title>메뉴</title>
+</head>
+<body>
+    <a href="http://jhbum.pe.kr/web/5w/test2_1.html">1번메뉴</a>
+    <a href="http://jhbum.pe.kr/web/5w/test2_2.html">2번메뉴</a>
+    <a href="http://jhbum.pe.kr/web/5w/test2_3.html">3번메뉴</a>
+    <a href="http://jhbum.pe.kr/web/5w/test2_4.html">4번메뉴</a>
+</body>
+</html>
